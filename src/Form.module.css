@@ -1,0 +1,30 @@
+.formcontainer {
+    background-color: lightgreen;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input,
+  select {
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
